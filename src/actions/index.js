@@ -1,3 +1,3 @@
-export const getNews = () => ({
-    type: 'GET_NEWS',
+export const getBoard = () => ({
+    type: 'GET_BOARD',
   });
